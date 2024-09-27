@@ -48,3 +48,4 @@ class FFNN(nn.Module):
         output = self.layer3(activation2)
         return output
 
+
